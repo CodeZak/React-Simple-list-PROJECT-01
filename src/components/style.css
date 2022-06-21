@@ -1,0 +1,30 @@
+.navbar {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.container {
+    margin-top: 10px;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    font-size: 1.1em;
+    list-style: none;
+    border: 1px solid #9999;
+}
+
+li:not(li:last-child) {
+    border-bottom: 0px;
+}
+
+label {
+    margin-left: 5px;
+}
+img {
+    margin-right: 8px;
+}
